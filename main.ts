@@ -1,5 +1,4 @@
 #!/usr/bin/env -S npx ts-node
 
-import Person from './lib/Person'
+import './lib/streams'
 
-console.log(new Person('John', 'Doe'))
